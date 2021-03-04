@@ -1,7 +1,7 @@
 CV
 
 1. Alexey Zhuravlev.
-2. Email: gral290991@gmail.com; Tel: +79126027548
+2. Email: gral290991@gmail.com; Tel: +79126027548; telegram: @Alex_Disturbed.
 3. The goal is to increase the level of knowledge of JS, further employment in any organization with interesting projects.
 4. Skills: HTML - elementary; CSS - elementary; JS - elementary; 1c - advanced level.
 5. Exemple JS:
