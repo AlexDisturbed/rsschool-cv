@@ -13,6 +13,12 @@ CV
 
 let result = sum(1, 2);
 ```
+```javascript
+function square(number) {
+  return number * number;
+}
+```
+
 6. No professional experience with JS.
 7. Education:
 Сomputers, complexes, systems and networks (secondary vocational).
