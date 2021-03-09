@@ -1,0 +1,15 @@
+
+header{
+	font-size: 30pt;
+}
+
+img {
+    width: 200px; 
+    height: 200px; 
+	border: none;
+}
+
+#primer{
+	font-style: italic;
+	color: #91C1E3;
+}
